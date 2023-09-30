@@ -11,6 +11,7 @@ This app supports user authentication, post management (creating, editing, and d
 
 
 ## Home Page with embedded cluster map
+![ScreenShot](https://github.com/PhPfromKarakol/PshallllCamp/blob/main/screenshots/Home.png)
 
 ## Camps 
 
