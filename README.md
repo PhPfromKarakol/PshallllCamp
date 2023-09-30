@@ -14,15 +14,16 @@ This app supports user authentication, post management (creating, editing, and d
 ![ScreenShot](https://github.com/PhPfromKarakol/PshallllCamp/blob/main/screenshots/Home.png)
 
 ## Camps 
-
+![ScreenShot](https://github.com/PhPfromKarakol/PshallllCamp/blob/main/screenshots/camps.png)
 ## Register
-
+![ScreenShot](https://github.com/PhPfromKarakol/PshallllCamp/blob/main/screenshots/register.png)
 ## Login
+![ScreenShot](https://github.com/PhPfromKarakol/PshallllCamp/blob/main/screenshots/login.png)
 
 ## Camp details with some comments about it
-
+![ScreenShot](https://github.com/PhPfromKarakol/PshallllCamp/blob/main/screenshots/camp_details.png)
 ## Creating New Campground
-
+![ScreenShot](https://github.com/PhPfromKarakol/PshallllCamp/blob/main/screenshots/newcamp.png)
 
 
 # How it was created
